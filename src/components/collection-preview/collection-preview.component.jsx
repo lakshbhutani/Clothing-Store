@@ -19,4 +19,4 @@ const CollectionPreview = ({ title, items }) => {
     )
 }
 
-export default CollectionPreview
+export default CollectionPreview;
